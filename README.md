@@ -1,6 +1,8 @@
 # SECD2613 SYSTEM ANALYSIS AND DESIGN PROJECT
 # Group5 Preject SAD 2023/2024
 ## Easytrack 
+![屏幕截图 2024-04-27 115727](https://github.com/limchenxi/Group5_Project_SAD_20232024/assets/148421786/8e6b6d95-61ec-421b-92fa-b5816ffdf266)
+
 ### LIM CHEN XI (A23CS0103)
 ### CHANG WEN XUEN (A23CS5012）
 ### CHONG ZU WEI (A23CS0068）
