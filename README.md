@@ -13,7 +13,7 @@ Easytrack is an extraordinary system that improves guest safety and security by 
 
 [Kanban board](https://github.com/users/limchenxi/projects/2)
 #### Phase 1 : Project Proposal & Planning
-[1](https://github.com/limchenxi/Group5_Project_SAD_20232024/blob/main/SAD%20PROPOSAL.pdf)
+[1](https://drive.google.com/file/d/1NUb9G410snMd_VvXA9QJS381Tkdbb8uV/view?usp=sharing)
 #### Phase 2 : Information System Gathering and Requirement
-[2](https://github.com/limchenxi/Group5_Project_SAD_20232024/blob/main/SAD%20Phase%202.pdf)
+[2](https://drive.google.com/file/d/1PIeNhKzzoR1Fnl8TsPHMCaMAhVLO-1_Q/view?usp=sharing)
 
