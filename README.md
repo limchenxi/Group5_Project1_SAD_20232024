@@ -18,4 +18,5 @@ Easytrack is an extraordinary system that improves guest safety and security by 
 [2](https://drive.google.com/file/d/1PIeNhKzzoR1Fnl8TsPHMCaMAhVLO-1_Q/view?usp=sharing)
 #### Phase 3 – Analysis and Design
 [3](https://drive.google.com/file/d/1lGIgOKpqvqGHjfVJFblV_khXFkDaSEg8/view?usp=sharing)
+[SLIDE](https://docs.google.com/presentation/d/1yxfKF07ZHzf0_hlinyi_q5TClMrlOJqO/edit?usp=drive_link&ouid=100168408999713278118&rtpof=true&sd=true)
 
